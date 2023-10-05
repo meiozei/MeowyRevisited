@@ -959,8 +959,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "This is still not the options menu. \nA revisit to an old tale....\nAn
-    optimization that required to fix MANY things..\nWelcome to Meowys Adventure..2!"
+  m_Text: "This is still not the options menu. \nA revisit to an old tale....\nWelcome
+    to Meowys Adventure...2!\n(featuring headaches)"
 --- !u!222 &1182998111
 CanvasRenderer:
   m_ObjectHideFlags: 0
